@@ -1,0 +1,299 @@
+music = {
+	name = "sov1"
+	file = "SongsOfTheSovietUnion/sov1.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov2"
+	file = "SongsOfTheSovietUnion/sov2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov3"
+	file = "SongsOfTheSovietUnion/sov3.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov4"
+	file = "SongsOfTheSovietUnion/sov4.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov5"
+	file = "SongsOfTheSovietUnion/sov5.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov6"
+	file = "SongsOfTheSovietUnion/sov6.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov7"
+	file = "SongsOfTheSovietUnion/sov7.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "8"
+	file = "SongsOfTheSovietUnion/8.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov9"
+	file = "SongsOfTheSovietUnion/sov9.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov10"
+	file = "SongsOfTheSovietUnion/sov10.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov11"
+	file = "SongsOfTheSovietUnion/sov11.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov12"
+	file = "SongsOfTheSovietUnion/sov12.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov13"
+	file = "SongsOfTheSovietUnion/sov13.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov14"
+	file = "SongsOfTheSovietUnion/sov14.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov15"
+	file = "SongsOfTheSovietUnion/sov15.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov16"
+	file = "SongsOfTheSovietUnion/sov16.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov17"
+	file = "SongsOfTheSovietUnion/sov17.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov18"
+	file = "SongsOfTheSovietUnion/sov18.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov19"
+	file = "SongsOfTheSovietUnion/sov19.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov20"
+	file = "SongsOfTheSovietUnion/sov20.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov21"
+	file = "SongsOfTheSovietUnion/sov21.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov22"
+	file = "SongsOfTheSovietUnion/sov22.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov23"
+	file = "SongsOfTheSovietUnion/sov23.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov24"
+	file = "SongsOfTheSovietUnion/sov24.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov25"
+	file = "SongsOfTheSovietUnion/sov25.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov26"
+	file = "SongsOfTheSovietUnion/sov26.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov27"
+	file = "SongsOfTheSovietUnion/sov27.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov28"
+	file = "SongsOfTheSovietUnion/sov28.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov29"
+	file = "SongsOfTheSovietUnion/sov29.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov30"
+	file = "SongsOfTheSovietUnion/sov30.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov31"
+	file = "SongsOfTheSovietUnion/sov31.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov32"
+	file = "SongsOfTheSovietUnion/sov32.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov33"
+	file = "SongsOfTheSovietUnion/sov33.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov34"
+	file = "SongsOfTheSovietUnion/sov34.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov35"
+	file = "SongsOfTheSovietUnion/sov35.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov36"
+	file = "SongsOfTheSovietUnion/sov36.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov37"
+	file = "SongsOfTheSovietUnion/sov37.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov38"
+	file = "SongsOfTheSovietUnion/sov38.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov39"
+	file = "SongsOfTheSovietUnion/sov39.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov40"
+	file = "SongsOfTheSovietUnion/sov40.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov41"
+	file = "SongsOfTheSovietUnion/sov41.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov42"
+	file = "SongsOfTheSovietUnion/sov42.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov43"
+	file = "SongsOfTheSovietUnion/sov43.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov44"
+	file = "SongsOfTheSovietUnion/sov44.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov45"
+	file = "SongsOfTheSovietUnion/sov45.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov46"
+	file = "SongsOfTheSovietUnion/sov46.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov47"
+	file = "SongsOfTheSovietUnion/sov47.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov48"
+	file = "SongsOfTheSovietUnion/sov48.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov49"
+	file = "SongsOfTheSovietUnion/sov49.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "sov50"
+	file = "SongsOfTheSovietUnion/sov50.ogg"
+	volume = 0.65
+}

@@ -1,0 +1,53 @@
+music = {
+	name = "1"
+	file = "SongsOfTheNetherlands/1.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "2"
+	file = "SongsOfTheNetherlands/2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "3"
+	file = "SongsOfTheNetherlands/3.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "4"
+	file = "SongsOfTheNetherlands/4.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "5"
+	file = "SongsOfTheNetherlands/5.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "6"
+	file = "SongsOfTheNetherlands/6.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "7"
+	file = "SongsOfTheNetherlands/7.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "8"
+	file = "SongsOfTheNetherlands/8.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "9"
+	file = "SongsOfTheNetherlands/9.ogg"
+	volume = 0.65
+}

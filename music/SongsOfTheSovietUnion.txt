@@ -1,0 +1,804 @@
+
+music_station = "SongsOfTheSovietUnion"
+
+
+music = {
+	song = "sov1"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov2"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov3"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov4"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov5"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov6"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov7"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov8"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov9"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov10"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov11"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov12"
+
+	chance = {
+		factor = 4
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov13"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov14"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov15"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov16"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov17"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov18"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov19"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov20"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov21"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov22"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov23"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov24"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov25"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov26"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov27"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov28"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov29"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov30"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov31"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov32"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov33"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov34"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov35"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov36"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov37"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov38"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov39"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov40"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov41"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov42"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov43"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov44"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov45"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov46"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov47"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov48"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov49"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "sov50"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = SOV
+					}
+				}
+		}
+	}
+}
+##Americon2016

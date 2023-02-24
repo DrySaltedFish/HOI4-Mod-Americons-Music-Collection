@@ -1,0 +1,633 @@
+
+music_station = "SongsOfTheThirdReich"
+
+
+music = {
+	song = "hohenfriedberger"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "koniggratzer"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "preussensgloria"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "erika"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "westerwald"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "panzerrollen"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "panzerlied"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "imwald"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "wacht"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ssmarchiertinfeindesland"
+
+	chance = {
+		factor = 4
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "horstwessellied"
+
+	chance = {
+		factor = 4
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "morgenmaschierenwir"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "siegheilviktoria"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger1"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger2"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger3"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger4"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger5"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger6"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger7"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger8"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger9"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger10"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger11"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger12"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger13"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger14"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger15"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger16"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger17"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger18"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger19"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger20"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger21"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger22"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger23"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "ger24"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = GER
+						tag = AUS
+					}
+				}
+		}
+	}
+}
+##Americon2016

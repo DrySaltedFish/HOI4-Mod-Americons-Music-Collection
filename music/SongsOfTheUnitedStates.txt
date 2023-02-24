@@ -1,0 +1,340 @@
+
+music_station = "SongsOfTheUnitedStates"
+
+
+music = {
+	song = "USA1"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA2"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA3"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA4"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA5"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA6"
+
+	chance = {
+		factor = 4
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA7"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA8"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA9"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA10"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA11"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA12"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA13"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA14"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA15"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA16"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA17"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA18"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA19"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA20"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "USA21"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = USA
+					}
+				}
+		}
+	}
+}
+##Americon2016

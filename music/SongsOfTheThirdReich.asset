@@ -1,0 +1,221 @@
+music = {
+	name = "hohenfriedberger"
+	file = "SongsOfTheThirdReich/hohenfriedberger.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "koniggratzer"
+	file = "SongsOfTheThirdReich/koniggratzer.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "preussensgloria"
+	file = "SongsOfTheThirdReich/preussensgloria.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "erika"
+	file = "SongsOfTheThirdReich/erika.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "westerwald"
+	file = "SongsOfTheThirdReich/westerwald.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "panzerrollen"
+	file = "SongsOfTheThirdReich/panzerrollen.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "panzerlied"
+	file = "SongsOfTheThirdReich/panzerlied.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "imwald"
+	file = "SongsOfTheThirdReich/imwald.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "wacht"
+	file = "SongsOfTheThirdReich/wacht.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "liedderpanzergrenadiere"
+	file = "SongsOfTheThirdReich/liedderpanzergrenadiere.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "siegheilviktoria"
+	file = "SongsOfTheThirdReich/siegheilviktoria.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "horstwessellied"
+	file = "SongsOfTheThirdReich/horstwessellied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ssmarchiertinfeindesland"
+	file = "SongsOfTheThirdReich/ssmarchiertinfeindesland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger1"
+	file = "SongsOfTheThirdReich/ger1.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger2"
+	file = "SongsOfTheThirdReich/ger2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger3"
+	file = "SongsOfTheThirdReich/ger3.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger4"
+	file = "SongsOfTheThirdReich/ger4.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger5"
+	file = "SongsOfTheThirdReich/ger5.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger6"
+	file = "SongsOfTheThirdReich/ger6.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger7"
+	file = "SongsOfTheThirdReich/ger7.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger8"
+	file = "SongsOfTheThirdReich/ger8.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger9"
+	file = "SongsOfTheThirdReich/ger9.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger10"
+	file = "SongsOfTheThirdReich/ger10.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger11"
+	file = "SongsOfTheThirdReich/ger11.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger12"
+	file = "SongsOfTheThirdReich/ger12.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger13"
+	file = "SongsOfTheThirdReich/ger13.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger14"
+	file = "SongsOfTheThirdReich/ger14.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger15"
+	file = "SongsOfTheThirdReich/ger15.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger16"
+	file = "SongsOfTheThirdReich/ger16.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger17"
+	file = "SongsOfTheThirdReich/ger17.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger18"
+	file = "SongsOfTheThirdReich/ger18.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger19"
+	file = "SongsOfTheThirdReich/ger19.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger20"
+	file = "SongsOfTheThirdReich/ger20.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger21"
+	file = "SongsOfTheThirdReich/ger21.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger22"
+	file = "SongsOfTheThirdReich/ger22.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger23"
+	file = "SongsOfTheThirdReich/ger23.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ger24"
+	file = "SongsOfTheThirdReich/ger24.ogg"
+	volume = 0.65
+}

@@ -1,0 +1,32 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_SongsOfTheSovietUnion_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/SongsOfTheSovietUnion_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_SongsOfTheThirdReich_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/SongsOfTheThirdReich_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_SongsOfTheUnitedStates_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/SongsOfTheUnitedStates_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_SongsOfNovaRoma_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/SongsOfNovaRoma_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_SongsOfBritain_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/SongsOfBritain_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_SongsOfTheNetherlands_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/SongsOfTheNetherlands_album_art.dds"
+		noOfFrames = 2
+	}
+}

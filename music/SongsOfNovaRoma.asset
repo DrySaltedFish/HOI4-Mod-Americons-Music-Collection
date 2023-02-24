@@ -1,0 +1,131 @@
+music = {
+	name = "ita1"
+	file = "SongsOfNovaRoma/ita1.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita2"
+	file = "SongsOfNovaRoma/ita2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita3"
+	file = "SongsOfNovaRoma/ita3.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita4"
+	file = "SongsOfNovaRoma/ita4.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita5"
+	file = "SongsOfNovaRoma/ita5.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita6"
+	file = "SongsOfNovaRoma/ita6.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita7"
+	file = "SongsOfNovaRoma/ita7.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "ita8"
+	file = "SongsOfNovaRoma/ita8.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita9"
+	file = "SongsOfNovaRoma/ita9.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita10"
+	file = "SongsOfNovaRoma/ita10.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita11"
+	file = "SongsOfNovaRoma/ita11.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita12"
+	file = "SongsOfNovaRoma/ita12.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita13"
+	file = "SongsOfNovaRoma/ita13.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita14"
+	file = "SongsOfNovaRoma/ita14.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita15"
+	file = "SongsOfNovaRoma/ita15.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita16"
+	file = "SongsOfNovaRoma/ita16.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita17"
+	file = "SongsOfNovaRoma/ita17.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita18"
+	file = "SongsOfNovaRoma/ita18.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita19"
+	file = "SongsOfNovaRoma/ita19.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita20"
+	file = "SongsOfNovaRoma/ita20.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita21"
+	file = "SongsOfNovaRoma/ita21.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ita22"
+	file = "SongsOfNovaRoma/ita22.ogg"
+	volume = 0.65
+}

@@ -1,0 +1,148 @@
+
+music_station = "SongsOfTheNetherlands"
+
+
+music = {
+	song = "1"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = HOL
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "2"
+
+	chance = {
+		factor = 3
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = HOL
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "3"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = HOL
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "4"
+
+	chance = {
+		factor = 4
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = HOL
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "5"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = HOL
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "6"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = HOL
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "7"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = HOL
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "8"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = HOL
+					}
+				}
+		}
+	}
+}
+
+music = {
+	song = "9"
+
+	chance = {
+		factor = 2
+		modifier = {
+				factor=0
+				NOT = {
+					OR = {
+						tag = HOL
+					}
+				}
+		}
+	}
+}
+##Americon2016

@@ -1,0 +1,119 @@
+music = {
+	name = "ENG1"
+	file = "SongsOfBritain/ENG1.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG2"
+	file = "SongsOfBritain/ENG2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG3"
+	file = "SongsOfBritain/ENG3.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG4"
+	file = "SongsOfBritain/ENG4.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG5"
+	file = "SongsOfBritain/ENG5.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG6"
+	file = "SongsOfBritain/ENG6.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG7"
+	file = "SongsOfBritain/ENG7.ogg"
+	volume = 0.80
+}
+
+music = {
+	name = "ENG8"
+	file = "SongsOfBritain/ENG8.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG9"
+	file = "SongsOfBritain/ENG9.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG10"
+	file = "SongsOfBritain/ENG10.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG11"
+	file = "SongsOfBritain/ENG11.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG12"
+	file = "SongsOfBritain/ENG12.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG13"
+	file = "SongsOfBritain/ENG13.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG14"
+	file = "SongsOfBritain/ENG14.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG15"
+	file = "SongsOfBritain/ENG15.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG16"
+	file = "SongsOfBritain/ENG16.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG17"
+	file = "SongsOfBritain/ENG17.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG18"
+	file = "SongsOfBritain/ENG18.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG19"
+	file = "SongsOfBritain/ENG19.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ENG20"
+	file = "SongsOfBritain/ENG20.ogg"
+	volume = 0.65
+}

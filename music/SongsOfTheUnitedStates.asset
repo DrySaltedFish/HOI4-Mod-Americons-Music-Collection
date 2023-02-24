@@ -1,0 +1,125 @@
+music = {
+	name = "USA1"
+	file = "SongsOfTheUnitedStates/USA1.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA2"
+	file = "SongsOfTheUnitedStates/USA2.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA3"
+	file = "SongsOfTheUnitedStates/USA3.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA4"
+	file = "SongsOfTheUnitedStates/USA4.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA5"
+	file = "SongsOfTheUnitedStates/USA5.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA6"
+	file = "SongsOfTheUnitedStates/USA6.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA7"
+	file = "SongsOfTheUnitedStates/USA7.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA8"
+	file = "SongsOfTheUnitedStates/USA8.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA9"
+	file = "SongsOfTheUnitedStates/USA9.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA10"
+	file = "SongsOfTheUnitedStates/USA10.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA11"
+	file = "SongsOfTheUnitedStates/USA11.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA12"
+	file = "SongsOfTheUnitedStates/USA12.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA13"
+	file = "SongsOfTheUnitedStates/USA13.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA14"
+	file = "SongsOfTheUnitedStates/USA14.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA15"
+	file = "SongsOfTheUnitedStates/USA15.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA16"
+	file = "SongsOfTheUnitedStates/USA16.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA17"
+	file = "SongsOfTheUnitedStates/USA17.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA18"
+	file = "SongsOfTheUnitedStates/USA18.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA19"
+	file = "SongsOfTheUnitedStates/USA19.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA20"
+	file = "SongsOfTheUnitedStates/USA20.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "USA21"
+	file = "SongsOfTheUnitedStates/USA21.ogg"
+	volume = 0.65
+}
